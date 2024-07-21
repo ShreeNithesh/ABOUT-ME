@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ShreeNithesh
-- 👀 I’m interested in Digital Marketing
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me shreenithesh4@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Hi, I’m ShreeNithesh
+- Interested in Digital Marketing,
+- Data Science Student @PSGCT
+- shreenithesh4@gmail.com
+
 
 <!---
 ShreeNithesh/ShreeNithesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
